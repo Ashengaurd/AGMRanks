@@ -16,4 +16,4 @@ Be one of our supporters.
 * Andreas
 ### Patreons
 Be one of our patreons.  
-[Patreon Page](patreon.com/Ashenguard)
+[Patreon Page](https://www.patreon.com/Ashenguard)
