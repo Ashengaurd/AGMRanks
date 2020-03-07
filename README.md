@@ -1,4 +1,5 @@
 # AGMRanks
+![](https://www.spigotmc.org/attachments/agmranks-png.492447/)
 ## Support discord
 Join our discord server to get full support for this plugin.  
 To join the server [click here](https://discord.gg/ggkaNHj).
